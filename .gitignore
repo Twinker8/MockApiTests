@@ -1,2 +1,4 @@
 *vs/TestProject1/
 TestProject1/obj/Debug/netcoreapp3.1/TestProject1.csproj.AssemblyReference.cache
+TestProject1/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp
+
